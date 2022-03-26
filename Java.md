@@ -1,35 +1,35 @@
 ## Command Injection
 
-    - Runtime
-    - getRuntime
-    - exec
-    - ProcessBuilder
-    - CommandLine
-    - JShell
+- Runtime
+- getRuntime
+- exec
+- ProcessBuilder
+- CommandLine
+- JShell
 
 ## Weak Seed
 
-    - Random
+- Random
 
 ## Sql Injection
 
-    - createStatement
-    - createQuery
-    - executeQuery
-    - createNamedStoredProcedureQuery
+- createStatement
+- createQuery
+- executeQuery
+- createNamedStoredProcedureQuery
 
 
 ## Path Traversal
 
-    - getAbsolutePath 
+- getAbsolutePath 
 
 
 ## Deserialization
 
-    - ObjectInputStream
-    - XMLDecoder
-    - xstream
-    - readObject
-    - readResolve
-    - InvocationHandle
-    
+- ObjectInputStream
+- XMLDecoder
+- xstream
+- readObject
+- readResolve
+- InvocationHandle
+
