@@ -1,14 +1,22 @@
 ## Command Injection
 
-Runtime, getRuntime,exec, ProcessBuilder, CommandLine, JShell
+    - Runtime
+    - getRuntime
+    - exec
+    - ProcessBuilder
+    - CommandLine
+    - JShell
 
 ## Sql Injection
 
-createStatement, createQuery, executeQuery, createNamedStoredProcedureQuery
+    - createStatement
+    - createQuery
+    - executeQuery
+    - createNamedStoredProcedureQuery
 
 
-## LFI or RFI
+## Path Traversal
 
-getAbsolutePath 
+    - getAbsolutePath 
 
 

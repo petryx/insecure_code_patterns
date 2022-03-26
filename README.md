@@ -1,10 +1,15 @@
-# Insecure Keywords Code Patterns
+# Unsafe keyword code patterns
 
-The objective of this repository is to create a Database of insecure keywords in the principal programming languages. 
+This repository aims to create a database of unsafe keywords in major programming languages.
 
-The repository will consist of a list of keywords that generally direct to insecure code but can lead to a false positive; a manual static code analysis is always necessary.
+The repository will consist of a list of keywords that generally target insecure code but can lead to a false positive; a manual analysis of static code is always necessary to better evaluate.
 
-Let's enrich these insecure keywords.
+These keywords are dangerous functions or methods. So, to use them, it is necessary to surround them with user input sanitization, protections, and more.
+
+Let's enrich these insecure keywords. This repository is for the #infosec community. If you have more dangerous functions or methods, please open an issue or pull a request. It will be a pleasure to add your recommendation, and if at the moment you do not have a proposal, a star will be awesome too.
 
 
 
+## Reference
+
+    - Book Practical Security Automation and Testing
