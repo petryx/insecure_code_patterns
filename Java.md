@@ -7,6 +7,10 @@
     - CommandLine
     - JShell
 
+## Weak Seed
+
+    - Random
+
 ## Sql Injection
 
     - createStatement
@@ -20,3 +24,12 @@
     - getAbsolutePath 
 
 
+## Deserialization
+
+    - ObjectInputStream
+    - XMLDecoder
+    - xstream
+    - readObject
+    - readResolve
+    - InvocationHandle
+    

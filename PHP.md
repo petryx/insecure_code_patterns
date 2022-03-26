@@ -1,4 +1,4 @@
-## Settings php.ini
+## Insecure Settings php.ini
     - display_errors = on
     - log_errors = off
     - safe_mode = off
@@ -8,7 +8,7 @@
     - file_uploads = on
     - magic_quotes_gpc = off
     - open_basedir = "/" 
-    
+
 
 ## OS Command Injection
     - shell_exec

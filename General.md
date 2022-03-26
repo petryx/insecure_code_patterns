@@ -5,6 +5,7 @@
 ### Regex
 
     - ^.*?query.*?select.*?
+    - select.*from.*\+
 
 ## URL Parameters
 
@@ -15,7 +16,7 @@
     - path
     - file
     - dir
-    
+
 
 ## Hardcoded
 
