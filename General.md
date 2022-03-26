@@ -13,6 +13,9 @@
     - cmd
     - id
     - path
+    - file
+    - dir
+    
 
 ## Hardcoded
 
@@ -26,3 +29,6 @@
     - Client API Secret
     - Client API Key
     - Token
+
+## Forms
+    - hidden fields
