@@ -12,7 +12,7 @@ Let's enrich these insecure keywords. This repository is for the #infosec commun
 
 ## Reference
 
-    - [How To Write Insecure Code](https://owasp.org/www-community/How_to_write_insecure_code)
-    - Book Practical Security Automation and Testing
-    - [Vulnerability discovery in Java applications](https://0xpat.github.io/Vuln_discovery_Java/)
+    [How To Write Insecure Code](https://owasp.org/www-community/How_to_write_insecure_code)
+    Book Practical Security Automation and Testing
+    [Vulnerability discovery in Java applications](https://0xpat.github.io/Vuln_discovery_Java/)
     
