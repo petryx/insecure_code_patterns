@@ -1,4 +1,14 @@
 
+## Rules for code review
+
+### User Controlled Parameters
+
+    1 - Always look for user-controlled parameters.
+    2 - Follow the variables that have user-controlled data.
+    3 - Check if the variable is sanitized
+    4 - If the variable is sanitized, check if it is possible to bypass the sanitization function
+
+
 
 ## Sql Injection (SQLi)
 
@@ -6,6 +16,10 @@
 
 - ^.*?query.*?select.*?
 - select.*from.*\+
+
+#### REGEX SQL with string concatenation
+
+- ^.*?query.*?select.*?where.*?\+.*\+.*? 
 
 ## URL Parameters
 
