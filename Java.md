@@ -32,5 +32,5 @@
 - readObject
 - readResolve
 - InvocationHandle
-- Magic Bytes of Java Serialization: **ac ed 00 05 73**
+- Magic Bytes of Java Serialization: **ac ed 00 05**
 
