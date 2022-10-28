@@ -14,12 +14,18 @@
 
 ### Regex
 
-- ^.*?query.*?select.*?
+- ^.*?select.*?where.*?\+
 - select.*from.*\+
+- where.+\+
+- .*update.*SET.*=.*\+
+- .*select\s+.*\s+from .*
+- .*update\s+.*\s+where
+- .*insert\s+.*\s+
+- .*delete\s*.*\s+from
 
 #### REGEX SQL with string concatenation
 
-- ^.*?query.*?select.*?where.*?\+.*\+.*? 
+- ^.*?select.*?where.*?\+.*\+.*? 
 
 ## URL Parameters
 
